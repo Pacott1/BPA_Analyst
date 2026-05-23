@@ -154,7 +154,11 @@ Si la API fallara o no devolviera la información esperada, el histórico no deb
 
 ### ¿Qué añadiría si tuviera más tiempo?
 
-Añadiría el envío automático del resumen por email, ya que completa el proceso manual original. También incorporaría pruebas para comprobar que el cálculo de variación es correcto y que no se registran fechas duplicadas.
+Como siguiente mejora, añadiría el envío automático del resumen diario por email, ya que completaría la automatización del proceso original.
+
+Además, desarrollaría un dashboard sencillo que permitiera al equipo consultar la evolución histórica del tipo de cambio EUR/USD, visualizar las variaciones diarias e identificar posibles cambios relevantes sin necesidad de revisar manualmente el archivo CSV.
+
+Por último, incorporaría pruebas básicas para asegurar que el cálculo de la variación es correcto y que no se generan registros duplicados.
 
 ---
 

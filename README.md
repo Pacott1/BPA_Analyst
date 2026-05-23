@@ -62,17 +62,6 @@ El prototipo:
 
 
 
-### Validaciones incluidas
-
-El prototipo incorpora los siguientes controles:
-
-- Creación automática del archivo CSV si no existe previamente.
-- Control de registros duplicados para evitar almacenar dos veces una misma fecha.
-- Comprobación de que los datos tratados tienen formato `DataFrame`.
-- Tiempo máximo de espera de 15 segundos en la consulta a la API.
-
-
-
 ### Tecnologías utilizadas
 
 - Python
